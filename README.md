@@ -1,21 +1,15 @@
-# My-first-app
----
-## Description
----
-`print('This is my first app')`
----
-# 🎬 HOOK !!
+# 🌐 My First Streamlit App
 
-릴스 제작용 후킹 멘트 추천기
+## Description
+This is my first web app project created with Streamlit.
 
 ## Features
-- 콘텐츠 유형 선택
-- 타겟층 선택
-- 후킹 멘트 추천
+- Built with Streamlit
+- Simple web app structure
 
-## Built With
-- Python
-- Streamlit
-
-## Author
-Kim Yeeun
+## How to Run
+```bash
+streamlit run app.py
+---
+```text id="jlwmvk"
+Commit changes
